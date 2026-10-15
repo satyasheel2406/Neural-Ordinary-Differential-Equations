@@ -31,9 +31,8 @@ An ODE solver computes the hidden state over a specified time interval. The mode
 ```text
 Neural-Ordinary-Differential-Equations/
 ├── README.md
-├── Neural_ODE_Results_Verified.ipynb
+├── Neural_ODE_Results.ipynb
 ├── Neural_ODE_IEEE_Report_Updated.docx
-└── Neural_ODE_Presentation.pptx
 ```
 
 ## Experiments and Results
